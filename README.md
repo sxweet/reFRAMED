@@ -1,4 +1,8 @@
 reFRAMED
 ========
-# Framework in php.
+Framework in php.
 
+# Usage
+1.  
+
+2.  
